@@ -7613,11 +7613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyBlog\\MyBlog.Service\\MyBlog.Service.csproj",
+      "projectUniqueName": "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.Service\\MyBlog.Service.csproj",
       "projectName": "MyBlog.Service",
-      "projectPath": "E:\\MyBlog\\MyBlog.Service\\MyBlog.Service.csproj",
+      "projectPath": "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.Service\\MyBlog.Service.csproj",
       "packagesPath": "C:\\Users\\ZhuMe\\.nuget\\packages\\",
-      "outputPath": "E:\\MyBlog\\MyBlog.Service\\obj\\",
+      "outputPath": "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\DevAfter\\vs2017\\Shared\\NuGetPackages",
@@ -7641,11 +7641,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
-              "projectPath": "E:\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj"
+            "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
+              "projectPath": "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.IRepository\\MyBlog.IRepository.csproj"
             },
-            "E:\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj": {
-              "projectPath": "E:\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj"
+            "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.IService\\MyBlog.IService.csproj": {
+              "projectPath": "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.IService\\MyBlog.IService.csproj"
             }
           }
         }

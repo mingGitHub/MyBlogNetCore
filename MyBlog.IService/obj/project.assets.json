@@ -7576,11 +7576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj",
+      "projectUniqueName": "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.IService\\MyBlog.IService.csproj",
       "projectName": "MyBlog.IService",
-      "projectPath": "E:\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj",
+      "projectPath": "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.IService\\MyBlog.IService.csproj",
       "packagesPath": "C:\\Users\\ZhuMe\\.nuget\\packages\\",
-      "outputPath": "E:\\MyBlog\\MyBlog.IService\\obj\\",
+      "outputPath": "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.IService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\DevAfter\\vs2017\\Shared\\NuGetPackages",
@@ -7604,8 +7604,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj": {
-              "projectPath": "E:\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj"
+            "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.Model\\MyBlog.Model.csproj": {
+              "projectPath": "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.Model\\MyBlog.Model.csproj"
             }
           }
         }

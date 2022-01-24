@@ -23,7 +23,7 @@ namespace MyBlog.WebApi.Utility._Filter
             string path = context.HttpContext.Request.Path;        //api/test/getcache
             string route = context.HttpContext.Request.QueryString.Value;  //?name=name
             string key = path + route;                 //api/test/getcache?name=name
-            _cache.Set(key,context.Result);
+            _cache.Set(key,context.Result);           //设置缓存内容
         }
 
         public void OnResourceExecuting(ResourceExecutingContext context)

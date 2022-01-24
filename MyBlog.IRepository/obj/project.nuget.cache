@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EFbjnkKfPSXi9bgXvVgooZeDjOHE8r+W5FcySx9X0/tKU5KaTJRpTZlQofAoQFSIhPvjcUZlJCYTtZ8BEu2A5A==",
+  "dgSpecHash": "Ky6/Qbl1FM1HO4fJpv6N1v40/Cbvb+pfickmac+eVatOPRbxJM6/nXTb6npXmRZFr38azKCYKatgOX/8wfpSvA==",
   "success": true,
-  "projectFilePath": "E:\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj",
+  "projectFilePath": "E:\\github\\MyBlog\\MyBlogNetCore\\MyBlog.IRepository\\MyBlog.IRepository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZhuMe\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\ZhuMe\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",
